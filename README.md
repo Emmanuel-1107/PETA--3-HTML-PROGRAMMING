@@ -1,4 +1,4 @@
-#SFHS Website For PETA
+# SFHS Website For PETA
 
 *Must design a fully functional website.
 *Minimum of 5 pages.
